@@ -1,0 +1,7 @@
+year,fips_ipeds,inst_name,selective,more_selective,non_selective,total_enrollment,col_white,dif_white,col_hispa,dif_hispa,col_black,dif_black,col_asian,dif_asian,col_amind,dif_amind,col_pacis,dif_pacis,col_twora,dif_twora 
+2017, 'Washington', 'Fun Kids University', 0, 1, 0, 10000, 20, 1, 20, 2, 20, 1, 5, 1, 2, 1, 2, 1, 32, 1
+2017, 'Alabama', 'Hello University;, ' 0, 1, 0, 1000, 50, 1, 10, 2, 30, 1, 5, 1, 2, 1, 2, 1, 1, 1
+2017, 'Wyoming', 'UW', 0, 1, 0, 100000, 50, 1, 20, 2, 20, 1, 5, 1, 2, 1, 2, 1, 1, 1
+2017, 'Utah', 'Cool Kids U', 0, 1, 0, 200000, 50, 1, 20, 2, 20, 1, 5, 1, 2, 1, 2, 1, 1, 1
+2017, 'California', 'WSU', 0, 1, 0, 20000, 40, 1, 30, 2, 20, 1, 5, 1, 2, 1, 2, 1, 1, 1
+2017, 'Ohio', 'Univ', 1, , 0, 100, 30, 1, 40, 2, 20, 1, 5, 1, 2, 1, 2, 1, 1, 1

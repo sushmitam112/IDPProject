@@ -1,0 +1,7 @@
+year,fips_ipeds,inst_name,selective,more_selective,non_selective,total_enrollment,col_white,dif_white,col_hispa,dif_hispa,col_black,dif_black,col_asian,dif_asian,col_amind,dif_amind,col_pacis,dif_pacis,col_twora,dif_twora
+2017,"Washington",'Washington Uni', 0, 1, 0, 100, 50, 4, 20, -2, 20, -5, 5, 1, 2, 1, 3, 1, 0, 1
+2017,"Washington",'UW', 0, 1, 0, 100, 50, 1, 20, -4, 20, -1, 5, 1, 2, 1, 3, 1, 0, 1
+2017,"Washington",'Univ', 0, 1, 0, 100, 30, 1, 40, -2, 20, 1, 5, 1, 2, 1, 3, 1, 0, 1
+2017,"California",'Hello University;, ' 0, 1, 0, 100, 50, 1, 10, -2, 30, 1, 5, 1, 2, 1, 3, 1, 0, 1
+2017,"California",'WSU2', 0, 1, 0, 200, 50, 1, 20, -2, 20, 1, 5, 1, 2, 1, 3, 1, 0, 1
+2017,"California",'WSU', 0, 1, 0, 200, 40, 1, 30, -10, 20, -1, 5, 1, 2, 1, 3, 1, 1, 1
